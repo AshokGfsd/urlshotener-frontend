@@ -2,7 +2,7 @@
 
 ### _**URL Shortener**_
 
-- [_**URL Shortener Task Deploy**_](https://password-reset-fe-dun.vercel.app/)
+- [_**URL Shortener Task Deploy**_](https://urlshotener-frontend.vercel.app/)
 
 - [_**URL Shortener Task Folder**_](./)
 
