@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "https://urlshortener-backend-nc4j.onrender.com";
+const baseURL = "https://urlshortener-backend-j9ix.onrender.com";
 
 const instance = axios.create({
   baseURL,
