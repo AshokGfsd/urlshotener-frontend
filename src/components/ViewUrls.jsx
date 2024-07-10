@@ -10,7 +10,7 @@ const ViewUrls = () => {
   const navigate = useNavigate();
   const urlArr = !urls ? false : [...urls.data.urls];
   const [urlsData, setUrlsData] = useState(urlArr);
-  const bashUrl = "http://localhost:5173";
+  const bashUrl = "https://urlshotener-frontend.vercel.app/";
   useEffect(() => {
     if (!urls) {
       navigate("/");
