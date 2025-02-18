@@ -60,7 +60,7 @@ const Notlog = () => {
           <div className="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
             <div className="card card-background ">
               <div className="card-body pt-7 text-center">
-                Please sign in or login
+                Please sign up or login
                 <br />
                 To continue
                 <h2 className="text-white up mb-0">
@@ -70,7 +70,7 @@ const Notlog = () => {
                       navigate("/signin");
                     }}
                   >
-                    SIGN IN
+                    SIGN UP
                   </button>
                   <button
                     className="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1"
